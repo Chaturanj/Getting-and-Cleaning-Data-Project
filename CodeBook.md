@@ -9,6 +9,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 # Before running the script run_analysis.R do the following:
 1. Download the data set from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2. Unzip the data set into your working directory
+3. This code require the library(data.table)
 
 # The run_analysis.R does the following:
 1. Loads test and training data sets into data frames
